@@ -18,22 +18,27 @@ function Text() {
       <div className="flex justify-center items-center mb-5 w-full">
         <p className="text-center max-w-2xl mx-4">
           1. Open YouTube.com and search for the video you would like to
-          download. 
+          download.
           <br></br>
-          2. When you find the video, click on it and wait until it
-          starts playing. Then, just copy the video URL from your browser
-          address bar. 3. Open YTMP3 and paste the video URL in our converter.
-          After that, you will be able to choose the download format. You can
-          choose between MP3 or MP4. If you do not choose any format, the video
-          will be converted by default into an MP3 file. 4. Then, simply click
-          on the "Convert" button. The conversion will be initiated and may take
-          a few minutes. We will try to convert the video in the best available
-          quality. But be aware that it is only possible to download videos that
-          are up to 90 minutes long, to guarantee that the conversion will be
-          done within a few minutes. 5. As soon as the conversion of the video
-          is completed, you will see a "Download" button. Just click on it, and
-          the download shall start. By using YTMP3, you are accepting our Terms
-          of Use. We appreciate that you've chosen YTMP3.
+          <br></br>
+          2. When you find the video, click on it and wait until it starts
+          playing. Then, just copy the video URL from your browser address bar.
+          <br></br>
+          <br></br>3. Open YTMP3 and paste the video URL in our converter. After
+          that, you will be able to choose the download format. You can choose
+          between MP3 or MP4. If you do not choose any format, the video will be
+          converted by default into an MP3 file. <br></br>
+          <br></br>
+          4. Then, simply click on the "Convert" button. The conversion will be
+          initiated and may take a few minutes. We will try to convert the video
+          in the best available quality. But be aware that it is only possible
+          to download videos that are up to 90 minutes long, to guarantee that
+          the conversion will be done within a few minutes. <br></br>
+          <br></br>
+          5. As soon as the conversion of the video is completed, you will see a
+          "Download" button. Just click on it, and the download shall start. By
+          using YTMP3, you are accepting our Terms of Use. We appreciate that
+          you've chosen YTMP3.
         </p>
       </div>
     </>

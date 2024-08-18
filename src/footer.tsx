@@ -3,7 +3,7 @@ import "./index.css";
 function Footer() {
   return (
     <>
-      <div className=" flex justify-center text-center mt-5  ">
+      <div className=" flex justify-center text-center mt-10  ">
         <a href="/" className="mr-5">
           Contact
         </a>
